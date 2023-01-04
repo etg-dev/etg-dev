@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Im *Erfan* ! :smiley: <br>
-Im currently **Front-end Developer** and fromer **Android Developer**. ... :wink: <br>
+Im currently **Front-end Developer** and former **Android Developer**. ... :wink: <br>
 Im *Intrested* in **solving problems** and dealing with **Vulnerabilities**. :heart: <br>
 Feel Free For Asking Questions :kissing_heart: <br>
 You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
