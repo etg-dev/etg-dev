@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**etg-dev/etg-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im *Erfan* ! :smiley: <br>
+Im currently **Front-end Developer** and fromer **Android Developer**. ... :wink: <br>
+Im *Intrested* in **solving problems** and dealing with **Vulnerabilities**. :heart: <br>
+Feel Free For Asking Questions :kissing_heart: <br>
+You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
 
-Here are some ideas to get you started:
+**Gmail: taghinia.dev@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex;">
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/%20-Android%20-orange.svg?&style=for-the-badge&logo=android&logoColor=white"/>
+
+</div>
