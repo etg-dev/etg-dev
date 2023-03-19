@@ -21,3 +21,10 @@ You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
   <img alt="android" src="https://img.shields.io/badge/%20-Android%20-orange.svg?&style=for-the-badge&logo=android&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </div>
+
+<p align="center">
+<a href="https://github.com/etg-dev">
+  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=etg-dev&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=etg-dev&layout=compact&langs_count=12&theme=shades-of-purple&hide=css,html"/>
+</a>
+</p>
