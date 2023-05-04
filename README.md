@@ -1,30 +1,19 @@
-### Hi there 👋
+#  About Me:
+Hi there wave<br>Im Erfan <br>Im currently Front-end Developer and former Android Developer. <br>Im Intrested in solving problems and dealing with Vulnerabilities.<br>Feel Free For Asking Questions <br>You Can Contact Me by My Gmail Account Below <br><br>Gmail: taghinia.dev@gmail.com<br><br>website: https://erfant.dev/
 
-Im *Erfan* ! :smiley: <br>
-Im currently **Front-end Developer** and former **Android Developer**. ... :wink: <br>
-Im *Intrested* in **solving problems** and dealing with **Vulnerabilities**. :heart: <br>
-Feel Free For Asking Questions :kissing_heart: <br>
-You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
 
-**Gmail: taghinia.dev@gmail.com**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/erfan-taghinia-547284163) 
 
-**website: https://erfant.dev/**
-
-<div style="display: flex;">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="typescript" src="https://img.shields.io/badge/%20-TS%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%2361DAFB"/>
-  <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="android" src="https://img.shields.io/badge/%20-Android%20-orange.svg?&style=for-the-badge&logo=android&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-</div>
-
-<p align="center">
-<a href="https://github.com/etg-dev">
-  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=etg-dev&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=etg-dev&layout=compact&langs_count=12&theme=shades-of-purple&hide=css,html"/>
-</a>
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+# 📊 GitHub Stats:
+<p align="center"
+![](https://github-readme-stats.vercel.app/api?username=etg-dev&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=etg-dev&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=etg-dev&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 </p>
+---
+[![](https://visitcount.itsvg.in/api?id=etg-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
