@@ -7,26 +7,21 @@
  </div>
 
 #  About Me:
-<h1 align="center">Hi there 👋</h1>
 
-<p align="center">
-  My name is Erfan, and I'm a software developer currently focusing on learning Golang 🌱. In the past, I worked as a front-end and Android developer, but now I'm more interested in solving problems and dealing with vulnerabilities 🔍.
-</p>
+## Hi there 👋
 
-<p align="center">
-  Feel free to ask me any questions you have, I'm always happy to help! You can reach me via my Gmail account 
-</p>
+### My name is Erfan, and I'm a software developer currently focusing on learning Golang 🌱.
 
-<br /><br />Gmail: taghinia.dev@gmail.com
-<br /><br />website: https://erfant.dev/
+In the past, I worked as a front-end and Android developer, 
+but now I'm more interested in solving problems and dealing with vulnerabilities 🔍.
 
-<br />
-<p align="center">
-  Looking forward to connecting with you! 😄
-</p>
+### Feel free to ask me any questions you have, I'm always happy to help! You can reach me via my Gmail account 
 
-#### Hi there <br>Im **Erfan** <br><br>🌱 I’m currently learning Golang <br><br>Former front-end and android developer. <br>
-Im Intrested in solving problems and dealing with Vulnerabilities.<br>Feel Free For Asking Questions <br>You Can Contact Me by My Gmail Account Below 
+##### Gmail: taghinia.dev@gmail.com
+##### website: https://erfant.dev/
+
+
+##### Looking forward to connecting with you! 😄
 
 
 
