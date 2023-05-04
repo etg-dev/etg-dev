@@ -2,12 +2,12 @@
  
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Erfan+Taghinia;etg-dev;a+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=cd9106&vCenter=true&width=600&height=70&lines=Erfan+Taghinia;etg-dev;a+Software+Developer)](https://git.io/typing-svg)
  
  </div>
 
 #  About Me:
-Hi there wave<br>Im **Erfan** <br>🌱 I’m currently learning Golang <br> former Front-end and Android Developer. <br>Im Intrested in solving problems and dealing with Vulnerabilities.<br>Feel Free For Asking Questions <br>You Can Contact Me by My Gmail Account Below <br><br>Gmail: taghinia.dev@gmail.com<br><br>website: https://erfant.dev/
+Hi there wave<br>Im **Erfan** <br>🌱 I’m currently learning Golang <br>Former front-end and android developer. <br>Im Intrested in solving problems and dealing with Vulnerabilities.<br>Feel Free For Asking Questions <br>You Can Contact Me by My Gmail Account Below <br><br>Gmail: taghinia.dev@gmail.com<br><br>website: https://erfant.dev/
 
 
 ## 🌐 Socials:
@@ -19,7 +19,7 @@ Hi there wave<br>Im **Erfan** <br>🌱 I’m currently learning Golang <br> form
 
 ![](https://github-readme-stats.vercel.app/api?username=etg-dev&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=etg-dev&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=etg-dev&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=etg-dev&icon=0&color=0)](https://visitcount.itsvg.in)
