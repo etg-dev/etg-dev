@@ -2,12 +2,12 @@
  
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=cd9106&vCenter=true&width=600&height=70&lines=Erfan+Taghinia;etg-dev;a+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=cd9106&vCenter=true&width=700&height=70&lines=Erfan+Taghinia;etg-dev;a+Software+Developer)](https://git.io/typing-svg)
  
  </div>
 
 #  About Me:
-Hi there wave<br>Im **Erfan** <br>🌱 I’m currently learning Golang <br>Former front-end and android developer. <br>Im Intrested in solving problems and dealing with Vulnerabilities.<br>Feel Free For Asking Questions <br>You Can Contact Me by My Gmail Account Below <br><br>Gmail: taghinia.dev@gmail.com<br><br>website: https://erfant.dev/
+##### Hi there <br>Im **Erfan** <br>🌱 I’m currently learning Golang <br>Former front-end and android developer. <br>Im Intrested in solving problems and dealing with Vulnerabilities.<br>Feel Free For Asking Questions <br>You Can Contact Me by My Gmail Account Below <br><br>Gmail: taghinia.dev@gmail.com<br><br>website: https://erfant.dev/
 
 
 ## 🌐 Socials:
