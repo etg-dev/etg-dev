@@ -5,15 +5,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=cd9106&vCenter=true&width=700&height=70&lines=Erfan+Taghinia;etg-dev;a+Software+Developer)](https://git.io/typing-svg)
  
  </div>
-
-#  About Me:
-
+ 
 ## Hi there 👋
 
 ### My name is Erfan, and I'm a software developer currently focusing on learning Golang 🌱.
 
-In the past, I worked as a front-end and Android developer, 
-but now I'm more interested in solving problems and dealing with vulnerabilities 🔍.
+### In the past, I worked as a front-end and Android developer, 
+### but now I'm more interested in solving problems and dealing with vulnerabilities 🔍.
 
 ### Feel free to ask me any questions you have, I'm always happy to help! You can reach me via my Gmail account 
 
