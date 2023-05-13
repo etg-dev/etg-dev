@@ -15,11 +15,11 @@
 
 ### Feel free to ask me any questions you have, I'm always happy to help! You can reach me via my Gmail account 
 
-##### Gmail: taghinia.dev@gmail.com
-##### website: https://erfant.dev/
+#### Gmail: taghinia.dev@gmail.com
+#### website: https://erfant.dev/
 
 
-##### Looking forward to connecting with you! 😄
+#### Looking forward to connecting with you! 😄
 
 
 
