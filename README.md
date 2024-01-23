@@ -13,7 +13,7 @@
 
 ### Feel free to ask me any questions you have, I'm always happy to help! You can reach me via my Gmail account 
 
-#### Gmail: taghinia.dev@gmail.com
+#### mail: erfan@etg-dev.com
 #### website: https://etg-dev.com/
 
 
