@@ -6,12 +6,7 @@
  
  </div>
  
-## Hi there 👋
-
-### In the past, I worked as a front-end and Android developer, 
-### but now I'm more interested in solving problems and dealing with vulnerabilities 🔍.
-
-### Feel free to ask me any questions you have, I'm always happy to help! You can reach me via my Gmail account 
+### Stay curious, keep learning, help others
 
 #### mail: erfan@etg-dev.com
 #### website: https://etg-dev.com/
